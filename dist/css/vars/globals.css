@@ -25,7 +25,7 @@ img {
    position: relative;
    z-index: 1;
    background-size: cover;
-   background-color: #028d88;
+   background-color: var(--main-color);
    margin-top:0;
    padding-right: 30px;
    margin-bottom: 0px;
